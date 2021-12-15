@@ -1,0 +1,108 @@
+body {
+    background: url("../img/12345.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+form{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#login-box {
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 15%;
+    text-align: center;
+    background: #00000080;
+    padding: 20px 50px;
+    align-self: center;
+}
+
+#login-box h1 {
+    color: white;
+
+}
+
+#login-box .form .item {
+    margin-top: 15px;
+}
+
+#login-box .form .item input {
+    width: 80%;
+    font-size: 30px;
+    margin: 10px 0;
+    border: 0;
+    border-bottom: 3px solid white;
+    padding: 5px 10px;
+    background: #ffffff00;
+    color: #ffffff;
+}
+
+#login-box .form .item input[placeholder] {
+    color: white;
+}
+
+#login-box .form .item i {
+    font-size: 18px;
+    color: white;
+}
+
+
+#login-box button {
+    border: 0;
+    margin-top: 15px;
+    width: 30%;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+    border-radius: 30px;
+    margin-top: 100px;
+}
+
+#message-box {
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.area{
+    display: flex;
+    justify-content: left;
+    width: 50%;
+    font-size: 25px;
+    align-items: center;
+    color: white;
+}
+
+.area input{
+    display: inline;
+    width: 10px;
+}
+
+p{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 30px;
+}
+
+input[type='radio']{
+    height: 25px;
+    width: 25px;
+}
+
+input[type='checkbox']{
+    height: 25px;
+    width: 25px;
+}
+
