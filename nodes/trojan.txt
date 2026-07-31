@@ -1,4 +1,4 @@
-trojan://EC0335D7-90B5-B90D-C670-FF39FD1721F2@fd025gz8-c617.aws-agent.org:10111?allowInsecure=1&udp=1&sni=m.ctrip.com#Traffic%3A%2019.28%20GB%20%7C%20150%20GB
+trojan://EC0335D7-90B5-B90D-C670-FF39FD1721F2@fd025gz8-c617.aws-agent.org:10111?allowInsecure=1&udp=1&sni=m.ctrip.com#Traffic%3A%2019.29%20GB%20%7C%20150%20GB
 trojan://EC0335D7-90B5-B90D-C670-FF39FD1721F2@fd025gz8-c617.aws-agent.org:10111?allowInsecure=1&udp=1&sni=m.ctrip.com#Expire%3A%202026-12-11
 trojan://EC0335D7-90B5-B90D-C670-FF39FD1721F2@fd025gz8-c617.aws-agent.org:10111?allowInsecure=1&udp=1&sni=m.ctrip.com#%E9%A6%99%E6%B8%AF%E5%AE%9E%E9%AA%8C%E6%80%A7%20IEPL%20%E4%B8%93%E7%BA%BF%201
 trojan://EC0335D7-90B5-B90D-C670-FF39FD1721F2@e3585sh0-3ad5.aws-agent.org:10121?allowInsecure=1&udp=1&sni=m.ctrip.com#%E6%97%A5%E6%9C%AC%E5%AE%9E%E9%AA%8C%E6%80%A7%20IEPL%20%E4%B8%93%E7%BA%BF%201
